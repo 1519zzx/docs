@@ -1,13 +1,15 @@
-# Welcome to MkDocs
+# 大家好
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+我们是南京特殊教育师范学院 [点我百度](https://www.baidu.com).
 
-## Commands
+## 介绍室友
 
-* `徐毓祥牛逼.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* `徐雨翔niubi.![Screenshot](img/微信图片_20220830205122.jpg)
+* `mkdocs serve` - 彭安琪yyds.![Screenshot](img/微信图片_20220830205109.jpg)
+* `mkdocs build` - 杨世龙nb.![Screenshot](img/微信图片_20220830205127.jpg)
+* `mkdocs -h` - 卢志伟zbc
+
+![Screenshot](img/微信图片_20220830205132.jpg)
 
 ## Project layout
 
